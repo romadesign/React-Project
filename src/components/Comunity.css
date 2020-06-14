@@ -1,0 +1,284 @@
+
+/*feacture*/
+
+.feacture, .explore{
+    margin: 200px 0;
+}
+
+.feacture img, .explore img{
+    max-width: 90%;
+    cursor: pointer;
+}
+
+.feacture h2{
+    margin: 40px 0;
+}
+
+.feacture p, .explore p{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    color: #808080;
+    font-size: 14px;
+}
+
+.feacture a, .explore a{
+    width: 120px;
+    padding: 15px 10px;        
+    background: rgb(0, 0, 27);
+    text-decoration: none !important;
+    color: #fff !important;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1200px){
+ 
+    
+    /*feacture*/
+    
+    .feacture, .explore{
+        margin: 150px 0;
+        padding: 10px 0;
+    }
+    
+    .feacture img, .explore img{
+        max-width: 100%;
+        cursor: pointer;
+    }
+    
+    .feacture h2{
+        margin: 1px 0;
+        font-size: 30px;
+    }
+    
+    .feacture p, .explore p{
+        margin-top: 25px;
+        margin-bottom: 50px;
+        color: #808080;
+        font-size: 15px;
+    }
+    
+    .feacture a, .explore a{
+        width: 120px;
+        padding: 15px 10px;        
+        background: rgb(0, 0, 27);
+        text-decoration: none !important;
+        color: #fff !important;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+    
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px){
+ 
+    
+    /*feacture*/
+    
+    .feacture, .explore{
+        margin: 150px 0;
+        padding: 10px 0;
+    }
+    
+    .feacture img, .explore img{
+        max-width: 100%;
+        cursor: pointer;
+    }
+    
+    .feacture h2{
+        margin: 1px 0;
+        font-size: 30px;
+    }
+    
+    .feacture p, .explore p{
+        margin-top: 25px;
+        margin-bottom: 50px;
+        color: #808080;
+        font-size: 15px;
+    }
+    
+    .feacture a, .explore a{
+        width: 120px;
+        padding: 15px 10px;        
+        background: rgb(0, 0, 27);
+        text-decoration: none !important;
+        color: #fff !important;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+    
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px){
+ 
+    
+    /*feacture*/
+    
+    .feacture, .explore{
+        margin: 150px 0;
+        padding: 10px 0;
+    }
+    
+    .feacture img, .explore img{
+        max-width: 100%;
+        cursor: pointer;
+    }
+    
+    .feacture h2{
+        margin: 1px 0;
+        font-size: 30px;
+    }
+    
+    .feacture p, .explore p{
+        margin-top: 25px;
+        margin-bottom: 50px;
+        color: #808080;
+        font-size: 15px;
+    }
+    
+    .feacture a, .explore a{
+        width: 120px;
+        padding: 15px 10px;        
+        background: rgb(0, 0, 27);
+        text-decoration: none !important;
+        color: #fff !important;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+    
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 576px){
+ 
+    
+    /*feacture*/
+    
+    .feacture, .explore{
+        margin: 40px 0;
+        padding: 10px 0;
+    }
+    
+    .feacture img, .explore img{
+        max-width: 100%;
+        cursor: pointer;
+    }
+    
+    .feacture h2{
+        margin: 20px 0;
+    }
+    
+    .feacture p, .explore p{
+        margin-top: 25px;
+        margin-bottom: 50px;
+        color: #808080;
+        font-size: 15px;
+    }
+    
+    .feacture a, .explore a{
+        width: 120px;
+        padding: 15px 10px;        
+        background: rgb(0, 0, 27);
+        text-decoration: none !important;
+        color: #fff !important;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+    
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 320px){
+ 
+    
+/*feacture*/
+
+.feacture, .explore{
+    margin: 50px 0;
+}
+ñ
+.feacture img, .explore img{
+    max-width: 90%;
+    cursor: pointer;
+}
+
+.feacture h2{
+    margin: 10px 0;
+}
+
+.feacture p, .explore p{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    color: #808080;
+    font-size: 15px;
+}
+
+.feacture a, .explore a{
+    width: 120px;
+    padding: 15px 10px;        
+    background: rgb(0, 0, 27);
+    text-decoration: none !important;
+    color: #fff !important;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 9px 9px 1px rgb(204,204,204,0.5);
+
+}
+
+}

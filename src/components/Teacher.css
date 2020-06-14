@@ -1,0 +1,101 @@
+.cursos{
+    width: 100%;
+}
+
+.ancho{
+    width: 80%;
+    margin: auto;
+    
+}
+
+.ancho h2{
+    padding: 40px 0;
+    margin: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+.space{
+    margin: 10px 0;
+}
+
+
+
+
+@media only screen and (max-width: 1200px){
+
+    .cursos{
+        width: 100%;
+    }
+    
+    .ancho{
+        width: 95%;
+        margin: auto;
+    }
+    
+    .ancho h2{
+        margin: 0 20px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: 600;
+    }
+    .space{
+        margin: 10px 0;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 720px){
+
+    .cursos{
+        width: 100%;
+        padding: 0px;
+    }
+    
+    .ancho{
+        width: 99%;
+        margin: auto;
+    }
+    
+    .ancho h2{
+        font-size: 30px;
+        text-align: center;
+        font-weight: 600;
+    }
+    .space{
+        margin: 10px 0;
+    }
+    
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 576px){
+
+    .cursos{
+        width: 100%;
+    }
+    
+    .ancho{
+        width: 99%;
+        margin: auto;
+        padding: 50px 0;
+    }
+    
+    .ancho h2{
+        margin: 0 20px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: 600;
+    }
+    .space{
+        margin: 10px 0;
+    }
+    
+}

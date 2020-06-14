@@ -1,0 +1,26 @@
+/*cambia de color el fondo del menu*/
+.navbar{
+    background: rgb(0, 0, 27);
+    box-shadow: 0 1px 1px 0 rgb(0, 16, 30);
+    min-height: 100px 0;
+}
+/*pone fondo al texto del menu*/
+.nav-link{
+    color: rgba(255, 255, 255, 0.83);
+}
+/*pone fondo al texto del menu al pasa el mause*/
+.nav-link:hover{
+    color: royalblue;
+}   
+
+/*tamaño del icono hamburguesa*/
+.navbar-toggler{
+    font-size: 25px;
+}
+/*ocuata el color que se da al momento de hacer clikc en el icono*/
+.navbar-toggler:focus{
+    outline: none;
+}
+.fas {
+    color: #00bd15;
+}
