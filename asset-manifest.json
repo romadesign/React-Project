@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/curso-react/static/css/main.1618a47b.chunk.css",
+    "main.js": "/curso-react/static/js/main.9c5a5fa7.chunk.js",
+    "main.js.map": "/curso-react/static/js/main.9c5a5fa7.chunk.js.map",
+    "runtime-main.js": "/curso-react/static/js/runtime-main.85636a52.js",
+    "runtime-main.js.map": "/curso-react/static/js/runtime-main.85636a52.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/curso-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0df1ce2b.chunk.js": "/curso-react/static/js/2.0df1ce2b.chunk.js",
+    "static/js/2.0df1ce2b.chunk.js.map": "/curso-react/static/js/2.0df1ce2b.chunk.js.map",
+    "index.html": "/curso-react/index.html",
+    "precache-manifest.4b732499a76338dc6ca353faafef6eda.js": "/curso-react/precache-manifest.4b732499a76338dc6ca353faafef6eda.js",
+    "service-worker.js": "/curso-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/curso-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1618a47b.chunk.css.map": "/curso-react/static/css/main.1618a47b.chunk.css.map",
+    "static/js/2.0df1ce2b.chunk.js.LICENSE.txt": "/curso-react/static/js/2.0df1ce2b.chunk.js.LICENSE.txt",
+    "static/media/angular.png": "/curso-react/static/media/angular.75f17d14.png",
+    "static/media/comunidad1.svg": "/curso-react/static/media/comunidad1.941c5730.svg",
+    "static/media/undraw_code_review_l1q9.svg": "/curso-react/static/media/undraw_code_review_l1q9.1291b696.svg",
+    "static/media/undraw_completing_6bhr.svg": "/curso-react/static/media/undraw_completing_6bhr.3d0c546a.svg",
+    "static/media/undraw_mobile_login_ikmv.svg": "/curso-react/static/media/undraw_mobile_login_ikmv.7b7361e6.svg",
+    "static/media/undraw_press_play_bx2d.svg": "/curso-react/static/media/undraw_press_play_bx2d.798f45e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85636a52.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0df1ce2b.chunk.js",
+    "static/css/main.1618a47b.chunk.css",
+    "static/js/main.9c5a5fa7.chunk.js"
+  ]
+}
