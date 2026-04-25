@@ -21,7 +21,7 @@ export const Comunity = () => {
           <img src={exerciseImg} className="img"  alt="..."  />          </div>
           <div className="col-md-6">
             <h2>Unete a esta gran comunidad y a la nueva forma de aprender</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum a vitae voluptas aliquid, explicabo mollitia molestiae facilis fuga aperiam suscipit</p>
+            <p>Loxd  xdd nsectetur adipisicing elit. Ipsum a vitae voluptas aliquid, explicabo mollitia molestiae facilis fuga aperiam suscipit</p>
             <a href="">SABER MAS</a>
           </div>
         </div>
